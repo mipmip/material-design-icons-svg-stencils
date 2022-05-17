@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   id="svg1100"
+   version="1.1"
+   viewBox="0 0 5.2916598 5.2916598"
+   height="5.2916598mm"
+   width="5.2916598mm"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1097" />
+  <g
+     id="New_Layer_1652808974.7647774"
+     style="display:inline"
+     transform="translate(-112.47417,-733.89817)">
+    <g
+       id="Group_2"
+       transform="matrix(0.264583,0,0,0.264583,111.945,733.369)">
+      <path
+         id="Vector-99"
+         d="m 9,12 c 0,1.66 1.34,3 3,3 1.66,0 3,-1.34 3,-3 0,-1.66 -1.34,-3 -3,-3 -1.66,0 -3,1.34 -3,3 z"
+         fill="#323232" />
+      <path
+         id="Vector_2-6"
+         d="M 8,10 V 8 H 5.09 C 6.47,5.61 9.05,4 12,4 c 3.72,0 6.85,2.56 7.74,6 H 21.8 C 20.87,5.44 16.84,2 12,2 8.73,2 5.82,3.58 4,6.01 V 4 H 2 v 6 z"
+         fill="#323232" />
+      <path
+         id="Vector_3-0"
+         d="m 16,14 v 2 h 2.91 C 17.53,18.39 14.95,20 12,20 8.27995,20 5.14995,17.44 4.25995,14 h -2.06 c 0.93,4.56 4.96,8 9.80005,8 3.27,0 6.18,-1.58 8,-4.01 V 20 h 2 v -6 z"
+         fill="#323232" />
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   id="svg1100"
+   version="1.1"
+   viewBox="0 0 5.8208261 4.2333278"
+   height="4.2333279mm"
+   width="5.8208261mm"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1097" />
+  <g
+     id="New_Layer_1652809127.8692558"
+     style="display:inline"
+     transform="translate(-99.470083,-1081.4683)">
+    <path
+       fill="#323232"
+       fill-rule="evenodd"
+       d="M 16.67,13.13 C 18.04,14.06 19,15.32 19,17 v 3 h 4 v -3 c 0,-2.18 -3.57,-3.47 -6.33,-3.87 z"
+       clip-rule="evenodd"
+       id="path28342"
+       transform="matrix(0.264583,0,0,0.264583,99.2055,1080.41)" />
+    <path
+       fill="#323232"
+       d="M 9,12 A 4,4 0 1 0 9,4 4,4 0 0 0 9,12 Z"
+       id="path28344"
+       transform="matrix(0.264583,0,0,0.264583,99.2055,1080.41)" />
+    <path
+       fill="#323232"
+       fill-rule="evenodd"
+       d="m 15,12 c 2.21,0 4,-1.79 4,-4 0,-2.21 -1.79,-4 -4,-4 -0.47,0 -0.91,0.1 -1.33,0.24 a 5.98,5.98 0 0 1 0,7.52 C 14.09,11.9 14.53,12 15,12 Z m -6,1 c -2.67,0 -8,1.34 -8,4 v 3 h 16 v -3 c 0,-2.66 -5.33,-4 -8,-4 z"
+       clip-rule="evenodd"
+       id="path28346-7"
+       transform="matrix(0.264583,0,0,0.264583,99.2055,1080.41)" />
+  </g>
+</svg>
