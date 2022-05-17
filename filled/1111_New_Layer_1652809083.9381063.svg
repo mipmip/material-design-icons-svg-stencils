@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   id="svg1100"
+   version="1.1"
+   viewBox="0 0 4.7624941 5.820826"
+   height="5.8208261mm"
+   width="4.7624941mm"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1097" />
+  <g
+     id="New_Layer_1652809083.9381063"
+     style="display:inline"
+     transform="translate(-101.07375,-865.94558)">
+    <path
+       fill="#323232"
+       d="M 18.92,2.01 C 18.72,1.42 18.16,1 17.5,1 H 6.5 C 5.84,1 5.29,1.42 5.08,2.01 L 3,8 v 8 c 0,0.55 0.45,1 1,1 h 1 c 0.55,0 1,-0.45 1,-1 v -1 h 12 v 1 c 0,0.55 0.45,1 1,1 h 1 c 0.55,0 1,-0.45 1,-1 V 8 Z M 6.5,12 C 5.67,12 5,11.33 5,10.5 5,9.67 5.67,9 6.5,9 7.33,9 8,9.67 8,10.5 8,11.33 7.33,12 6.5,12 Z m 11,0 C 16.67,12 16,11.33 16,10.5 16,9.67 16.67,9 17.5,9 18.33,9 19,9.67 19,10.5 19,11.33 18.33,12 17.5,12 Z M 5,7 6.5,2.5 h 11 L 19,7 Z m 2,13 h 4 v -2 l 6,3 h -4 v 2 z"
+       id="path12184"
+       transform="matrix(0.264583,0,0,0.264583,100.28,865.681)" />
+  </g>
+</svg>

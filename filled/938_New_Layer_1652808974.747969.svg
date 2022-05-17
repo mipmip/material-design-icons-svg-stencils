@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   id="svg1100"
+   version="1.1"
+   viewBox="0 0 4.7624941 4.7624941"
+   height="4.7624941mm"
+   width="4.7624941mm"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1097" />
+  <g
+     id="New_Layer_1652808974.747969"
+     style="display:inline"
+     transform="translate(-132.56375,-753.31175)">
+    <path
+       id="Vector-775"
+       d="M 19,3 H 5 C 3.9,3 3,3.9 3,5 v 14 c 0,1.1 0.9,2 2,2 h 14 c 1.1,0 2,-0.9 2,-2 V 5 C 21,3.9 20.1,3 19,3 Z M 6,7 h 5 V 8.5 H 6 Z M 19,19 H 5 L 19,5 Z m -4.5,-3 v 2 H 16 v -2 h 2 v -1.5 h -2 v -2 h -1.5 v 2 h -2 V 16 Z"
+       fill="#323232"
+       transform="matrix(0.264583,0,0,0.264583,131.77,752.518)" />
+  </g>
+</svg>
